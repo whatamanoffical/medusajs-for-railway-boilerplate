@@ -16,8 +16,7 @@ const Hero = () => {
             level="h2"
             className="text-3xl leading-10 text-ui-fg-subtle font-normal"
           >
-            Need help customizing your store?
-          </Heading>
+Hej!          </Heading>
         </span>
         <a
           href="https://funkyton.com/tutorial-customize-your-medusajs-webshop-storefron/"
